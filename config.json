@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/webofshivang",
+        "prod_uri":"mysql://root:@localhost/webofshivang",
+        "fb_url":"https://www.facebook.com/profile.php?id=100010925080860",
+        "tw_url":"https://twitter.com/ShivuSingh85",
+        "gh_url": "https://github.com/Shivang85",
+        "blog_name": "Shivang Singh",
+        "tag_line": "Heaven for programmers",
+        "gmail-user":"your-email@gmail.com",
+        "gmail-password":"gmailpassword",
+        "about_me":"About Shivang",
+        "ab_tag":"Im Shivang singh chauhan, a tech enthusiast working for a project"
+
+
+
+    }
+
+
+
+}
